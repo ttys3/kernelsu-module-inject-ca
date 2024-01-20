@@ -1,7 +1,7 @@
 id=inject_ca
 name=Inject CA
-version=v1.0.1
-versionCode=101
+version=v1.0.2
+versionCode=102
 author=ttys3 and httptoolkit Developers
 description=workaround to inject user CA to Android 14 systemd trusted CA.
-updateJson=https://github.com/ttys3/kernelsu-module-inject-ca/release/update.json
+updateJson=https://github.com/ttys3/kernelsu-module-inject-ca/raw/main/module/update.json
