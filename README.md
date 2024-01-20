@@ -7,3 +7,9 @@ this module is based on the script created by httptoolkit https://httptoolkit.co
 ## module recommend
 
 https://github.com/Yervant7/ZygiskNext
+
+
+## refs
+
+https://kernelsu.org/guide/module.html#kernelsu-modules
+
